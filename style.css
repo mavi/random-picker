@@ -106,11 +106,6 @@ textarea {
 }
 
 @media screen and (max-width: 480px) {
-
-	.social-panel-container.visible {
-		transform: translateX(0px);
-	}
-	
 	.floating-btn {
 		right: 10px;
 	}
